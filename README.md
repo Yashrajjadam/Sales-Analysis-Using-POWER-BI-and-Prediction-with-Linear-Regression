@@ -15,11 +15,13 @@ Category-wise/Region-wise Performance
 Top Products & Customers Analysis
 
 Profit vs Sales Visualization
+
 ✅ Prediction Module (Linear Regression) in Jupyter Notebook / Google Colab:
 
 Predict future sales based on historical data
 
 Visualize regression line & accuracy metrics (R², MSE, etc.)
+
 ✅ Integrated Insights combining business dashboards with ML-based forecasting
 
 🛠️ Tech Stack
