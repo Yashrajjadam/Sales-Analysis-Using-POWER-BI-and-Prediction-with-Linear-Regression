@@ -4,6 +4,72 @@
 # Overview
 ==========
 We have a dataset named sales_data, downloaded from Kaggle. The sales analysis is done using Power BI, and the prediction is performed using linear regression.
+🚀 Features
+
+✅ Data Cleaning & Preprocessing using SQL / Python (handling missing values, removing duplicates, formatting dates)
+✅ Sales Dashboard in Power BI with:
+
+Monthly/Yearly Sales Trends
+
+Category-wise/Region-wise Performance
+
+Top Products & Customers Analysis
+
+Profit vs Sales Visualization
+✅ Prediction Module (Linear Regression) in Jupyter Notebook / Google Colab:
+
+Predict future sales based on historical data
+
+Visualize regression line & accuracy metrics (R², MSE, etc.)
+✅ Integrated Insights combining business dashboards with ML-based forecasting
+
+🛠️ Tech Stack
+
+Data Source: CSV / SQL Database
+
+Data Cleaning: SQL (Joins, Group By, Window Functions)
+
+Visualization: Power BI
+
+Prediction Model: Python (Linear Regression – scikit-learn, pandas, matplotlib)
+
+IDE/Tools: Jupyter Notebook / Google Colab
+
+⚙️ Workflow
+
+Data Preparation
+
+Load sales data from SQL/CSV
+
+Perform preprocessing (null handling, removing duplicates, formatting)
+
+Exploratory Data Analysis (EDA)
+
+Identify sales patterns & seasonal trends
+
+Analyze customer & product performance
+
+Power BI Dashboard
+
+Import cleaned dataset
+
+Create interactive visuals:
+
+Sales by Region, Category, Product
+
+Profit vs Sales
+
+Time-series trend
+
+Prediction with Linear Regression
+
+Build regression model in Python
+
+Train using historical sales data
+
+Evaluate performance (R² Score, MAE, RMSE)
+
+Forecast future sales
 
 # Steps for Analysis.
 ====================== 
@@ -21,6 +87,7 @@ Open the sales_data.sql file in SQL Workbench (or any compatible SQL platform) t
 Open the raj.pbix file in Power BI.
 
 Review the graphs and visualizations to analyze the sales data.
+
 
 
 # Steps for Prediction.
