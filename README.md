@@ -5,6 +5,7 @@ We have a dataset named sales_data, downloaded from Kaggle. The sales analysis i
 🚀 Features
 
 ✅ Data Cleaning & Preprocessing using SQL / Python (handling missing values, removing duplicates, formatting dates)
+
 ✅ Sales Dashboard in Power BI with:
 
 Monthly/Yearly Sales Trends
