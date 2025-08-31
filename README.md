@@ -1,5 +1,4 @@
 # Sales Analysis and Prediction with Linear Regression.
-===========================================================
 
 # Overview
 ==========
@@ -72,8 +71,7 @@ Evaluate performance (R² Score, MAE, RMSE)
 Forecast future sales
 
 # Steps for Analysis.
-====================== 
-
+ 
 1. Download the dataset:
 
 Download the file sales_data.sql and the Power BI report raj.pbix.
@@ -88,10 +86,7 @@ Open the raj.pbix file in Power BI.
 
 Review the graphs and visualizations to analyze the sales data.
 
-
-
 # Steps for Prediction.
-====================== 
 
 1. Download prediction files:
 
@@ -110,7 +105,6 @@ Execute the Jupyter Notebook or any compatible platform with the provided files.
 You can also use the provided Google Colab link to directly run the files.
 
 "https://colab.research.google.com/drive/1ZKSeXAoHHsjC41oQis6UgyzHFAykeaA_?usp=sharing"
-
 
 
 # Data Analysis Using SQL Workbench
@@ -152,9 +146,7 @@ You can also use the provided Google Colab link to directly run the files.
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
-
 Data Analysis Using Power BI
-============================
 
 1. Formula to create norml_amount column
 
