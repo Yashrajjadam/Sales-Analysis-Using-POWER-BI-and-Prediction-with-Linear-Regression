@@ -1,7 +1,6 @@
 # Sales Analysis and Prediction with Linear Regression.
 
 # Overview
-==========
 We have a dataset named sales_data, downloaded from Kaggle. The sales analysis is done using Power BI, and the prediction is performed using linear regression.
 🚀 Features
 
